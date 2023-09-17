@@ -1,0 +1,8 @@
+# In this repo we create an agent that proves theorems set by step starting tfrom 
+
+## Some resources:
+
+* Lean Community Projects: The Lean community maintains a repository of projects which contain a number of formalized theorems. Some of the projects might contain documentation or comments in natural language describing the theorems.
+* Mathlib: Mathlib is a library for Lean that contains a large collection of mathematical theorems. The library is well-documented, and each theorem is accompanied by a natural language description in the comments or the documentation.
+* Formal Abstracts: Formal Abstracts is a project that aims to formalize mathematical literature in Lean. It might contain descriptions of theorems in both natural language and Lean, although it is not primarily focused on pairing natural language descriptions with Lean code.
+* Arxiv Dataset: Though not directly in Lean, the arXiv dataset contains a large number of mathematical papers. It could potentially be used to create a dataset of theorems in natural language, but it would be a substantial amount of work to then formalize these in Lean.
