@@ -1,4 +1,7 @@
-# In this repo we create an agent that proves theorems set by step starting tfrom 
+# Solving reasoning through autoformalisation
+
+Rough outline:
+raw data -> embedding <-> symbol --> lean code (proof check) -> modify or kill reasoning branch
 
 ## Some resources:
 
